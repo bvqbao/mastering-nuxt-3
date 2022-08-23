@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.3.2",
+    "@tailwindcss/typography": "^0.5.4",
+    "@vueuse/core": "^9.3.1",
+    "@vueuse/nuxt": "^9.3.1",
+    "nuxt": "3.0.0-rc.12"
+  }
+}
